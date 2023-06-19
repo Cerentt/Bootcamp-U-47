@@ -41,6 +41,8 @@ https://github.com/Cerentt/Bootcamp-U-47/blob/main/daily%20scrum%20Sprint%201.do
 
 
 Sprint board update: Sprint board screenshotları:
+![Untitled](https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/6863c878-283c-4a10-b881-48e733938d27)
+
  
 Ürün Durumu: Screenshots: 
  
