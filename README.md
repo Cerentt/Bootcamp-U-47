@@ -81,6 +81,7 @@ https://miro.com/app/board/uXjVM9lY5bA=/
   https://github.com/Cerentt/Bootcamp-U-47/blob/main/Sprint%202%20Daily%20Scrum%20Chats.docx
 
 Sprint board update: Sprint board screenshotları:
+
 <img width="594" alt="sprint22222f" src="https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/1727d6e1-a7c9-41f6-b816-6ad2fcc17e07">
 
 Ürün Durumu: Screenshots: 
