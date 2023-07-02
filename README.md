@@ -96,7 +96,7 @@ Sprint board update: Sprint board screenshotları:
 ![image](https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/9905a5bf-f121-441c-a695-211868015b2f)
 
 ## Sprint Review: 
--Alınan kararlar: Oyunumuz tasarımsal olarak çok büyük değişikliklere gidecek, bu büyük değişikliklerden bazıları(Flashbackler olacak,menü tasarımları olacak, animasyonlar olacak.) 
+-Alınan kararlar: Oyunumuz tasarımsal olarak çok büyük değişikliklere gidecek, bu büyük değişikliklerden bazıları(Flashbackler olacak, menü tasarımları olacak, animasyonlar olacak.) 
 ## Sprint Review katılımcıları:
 - Salim Çakmak
 - Rümeysa Özkan
