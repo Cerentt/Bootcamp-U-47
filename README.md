@@ -7,7 +7,7 @@ Takım Unity U-47
 - Özde Ceren Topgüloğlu (Scrum Master)
 - Muhammed Alp Gürbüz (Developer)
 - Rümeysa Özkan (Developer)
-- Samet Demir (Developer)
+  
 ## Ürün İsmi
 ### "Rise of the Mastermind"
 # Product Backlog URL
@@ -74,4 +74,35 @@ Tüm ekip
 Product Backlog URL
 https://miro.com/app/board/uXjVM9lY5bA=/
 
+# Sprint 2
+-	Sprint içinde tamamlanması tahmin edilen puan: 320 Puan
+-	Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 1200 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 470 puan (Her backlog 10 puan) ile başlaması gerektiğine karar verildi. 2. sprint'e gelindiğinde 320 puan(her backlog 20 puan) ile devam edildi. 
+-	Daily Scrum: Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verilmiştir. Haftada 2-3 gün akşamları Discord üzerinden sesli ve ekran paylaşımlı olacak şekilde toplantıya yapılmaya devam edildi ve oyunda nerelere geldiğimiz, neleri geliştirmemiz gerektiğine karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+  https://github.com/Cerentt/Bootcamp-U-47/blob/main/Sprint%202%20Daily%20Scrum%20Chats.docx
 
+Sprint board update: Sprint board screenshotları:
+<img width="594" alt="sprint22222f" src="https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/1727d6e1-a7c9-41f6-b816-6ad2fcc17e07">
+
+Ürün Durumu: Screenshots: 
+![image](https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/b760d000-3219-41e8-999f-9c61ca73964c)
+![image](https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/35c0accc-e046-4455-b3d2-b4209587e555)
+![image](https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/bb2c6f3b-6b49-43d2-8755-3b39a6035b5f)
+![image](https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/aa02c2dd-4f78-495b-8b85-cca9a5552b6e)
+![image](https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/eff55305-f69b-47ae-b1c7-504b23ee29eb)
+![image](https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/b74d923d-55d4-46bc-86b5-1abc5888ab6c)
+![image](https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/953ba02c-57de-48a4-ad12-8a33127eeb8e)
+![image](https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/2372f525-1b3d-4d24-ae91-845445b6fe89)
+![image](https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/9905a5bf-f121-441c-a695-211868015b2f)
+
+## Sprint Review: 
+-Alınan kararlar: Oyunumuz tasarımsal olarak çok büyük değişikliklere gidecek, bu büyük değişikliklerden bazıları(Flashbackler olacak,menü tasrımları olacak, animasyonlar olacak.) 
+## Sprint Review katılımcıları:
+- Salim Çakmak
+- Rümeysa Özkan
+- Muhammed Alp Gürbüz
+- Özde Ceren Topgüloğlu
+## Sprint Retrospective:
+-Takımda aktif olmayan üyeler oy birliği ile birlikte takımdan çıkarıldı.(Bireyin kendisi de onayladı.) 
+
+Product Backlog URL
+https://miro.com/app/board/uXjVM9lY5bA=/
