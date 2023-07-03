@@ -102,6 +102,8 @@ Sprint board update: Sprint board screenshotları:
 - Rümeysa Özkan
 - Muhammed Alp Gürbüz
 - Özde Ceren Topgüloğlu
+## Sprint Notları: 
+- Oyunun atmosferi, ışıkları daha dramatik bir korku temasına uygun olacak şekilde düzenlendi, particles system eklendi. Karanlıkta görmek artık daha kolay, ses efektlerinde de iyileştirmelere gidildi. Kostüm texturelarında geliştirmeler yapıldı. Koşma animasyonu eklendi. 2. sprintte planlanan düzenlemeler başarıyla gerçekleştirildi.
 ## Sprint Retrospective:
 - Takımda aktif olmayan üyeler oy birliği ile birlikte takımdan çıkarıldı.(Bireyin kendisi de onayladı.)
 - Discord üzerinden ekran paylaşımı ile yapılan toplantılarda daha çok verim alınması nedeniyle bu tarz toplantılara yoğunlaşma kararı alındı.
