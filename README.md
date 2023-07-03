@@ -103,7 +103,8 @@ Sprint board update: Sprint board screenshotları:
 - Muhammed Alp Gürbüz
 - Özde Ceren Topgüloğlu
 ## Sprint Retrospective:
--Takımda aktif olmayan üyeler oy birliği ile birlikte takımdan çıkarıldı.(Bireyin kendisi de onayladı.) 
+- Takımda aktif olmayan üyeler oy birliği ile birlikte takımdan çıkarıldı.(Bireyin kendisi de onayladı.)
+- Discord üzerinden ekran paylaşımı ile yapılan toplantılarda daha çok verim alınması nedeniyle bu tarz toplantılara yoğunlaşma kararı alındı.
 
 Product Backlog URL
 https://miro.com/app/board/uXjVM9lY5bA=/
