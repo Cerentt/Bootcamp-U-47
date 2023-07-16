@@ -119,7 +119,8 @@ https://miro.com/app/board/uXjVM9lY5bA=/
 https://github.com/Cerentt/Bootcamp-U-47/blob/main/Daily%20Scrum%20Sprint%203.docx
 
 Sprint board update: Sprint board screenshotları:
-<img width="594" alt="BACKLOG" src="https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/d425a008-2e8b-44ae-b131-a9aec1748984">
+<img width="594" alt="backlogs" src="https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/c2e5eaad-f11d-4401-8cfc-ced221184465">
+
 
 Ürün Durumu: Screenshots: 
 ![1](https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/d05a33c7-2082-48d2-b01e-44c7040e0281)
