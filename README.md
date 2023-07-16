@@ -72,7 +72,7 @@ Tüm ekip
 -	Takım üyelerinin gelecek sprintlerde Discord üzerinden aktif olması gerektiğine vurgu yapılmıştır.
 
 Product Backlog URL
-https://miro.com/app/board/uXjVM9lY5bA=/
+- https://miro.com/app/board/uXjVM9lY5bA=/?share_link_id=358589371094
 
 # Sprint 2
 -	Sprint içinde tamamlanması tahmin edilen puan: 320 Puan
@@ -109,7 +109,7 @@ Sprint board update: Sprint board screenshotları:
 - Discord üzerinden ekran paylaşımı ile yapılan toplantılarda daha çok verim alınması nedeniyle bu tarz toplantılara yoğunlaşma kararı alındı.
 
 Product Backlog URL
-https://miro.com/app/board/uXjVM9lY5bA=/
+- https://miro.com/app/board/uXjVM9lY5bA=/?share_link_id=358589371094
 
 
 # Sprint 3
@@ -143,7 +143,7 @@ Sprint board update: Sprint board screenshotları:
 - Discord üzerinden ekran paylaşımı ile yapılan toplantılarda daha çok verim alınması nedeniyle bu tarz toplantılara yoğunlaşma kararı alındı.
 
 ## Product Backlog URL
-- https://miro.com/app/board/uXjVM9lY5bA=/
+- https://miro.com/app/board/uXjVM9lY5bA=/?share_link_id=358589371094
 
 
 
