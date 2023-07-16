@@ -118,7 +118,8 @@ Sprint board update: Sprint board screenshotları:
 -	Daily Scrum: Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verilmiştir. Haftada 2-3 gün akşamları Discord üzerinden sesli ve ekran paylaşımlı olacak şekilde toplantıya yapılmaya devam edildi ve oyunda nerelere geldiğimiz, neleri geliştirmemiz gerektiğine karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
 https://github.com/Cerentt/Bootcamp-U-47/blob/main/Daily%20Scrum%20Sprint%203.docx
 
-Sprint board update: Sprint board screenshotları:
+- Sprint board update: Sprint board screenshotları:
+  
 <img width="594" alt="backlogs" src="https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/c2e5eaad-f11d-4401-8cfc-ced221184465">
 
 
