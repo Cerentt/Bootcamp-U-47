@@ -110,3 +110,52 @@ Sprint board update: Sprint board screenshotları:
 
 Product Backlog URL
 https://miro.com/app/board/uXjVM9lY5bA=/
+
+
+# Sprint 3
+-	Sprint içinde tamamlanması tahmin edilen puan: 410 Puan
+-	Puan tamamlama mantığı: Toplamda proje boyunca tamamlanması gereken 1200 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 470 puan (Her backlog 10 puan) ile başlaması gerektiğine karar verildi. 2. sprint'e gelindiğinde 320 puan(her backlog 20 puan) ile devam edildi. 3. Sprintte de geriye kalan 410 puan paylaştırılarak görevler yerine getirildi. 
+-	Daily Scrum: Daily Scrum toplantılarının Whatsapp üzerinden yapılmasına karar verilmiştir. Haftada 2-3 gün akşamları Discord üzerinden sesli ve ekran paylaşımlı olacak şekilde toplantıya yapılmaya devam edildi ve oyunda nerelere geldiğimiz, neleri geliştirmemiz gerektiğine karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:
+https://github.com/Cerentt/Bootcamp-U-47/blob/main/Daily%20Scrum%20Sprint%203.docx
+
+Sprint board update: Sprint board screenshotları:
+<img width="594" alt="BACKLOG" src="https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/d425a008-2e8b-44ae-b131-a9aec1748984">
+
+Ürün Durumu: Screenshots: 
+![1](https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/d05a33c7-2082-48d2-b01e-44c7040e0281)
+![2](https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/48d440b0-a220-475b-8971-103307c4fb98)
+![3](https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/b81c450c-afe9-4cef-bd61-164309707ec6)
+![4](https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/74643747-a11c-49f9-a4eb-7bfd3dc204ab)
+![5](https://github.com/Cerentt/Bootcamp-U-47/assets/130183071/8eed5531-fe19-45ce-8568-9c6ff7f1f060)
+
+## Sprint Review: 
+-Alınan kararlar: Oyunun türü değiştirildi. Oyunda gerçekçi bir deneyim için cutsceneler eklendi. 
+## Sprint Review katılımcıları:
+- Salim Çakmak
+- Rümeysa Özkan
+- Muhammed Alp Gürbüz
+- Özde Ceren Topgüloğlu
+## Sprint Notları: 
+- CHATGPT  (Güncelleme ile apiyi artık paralı yaptılar, para verip haksız rekabet vermek istemedik. O yüzden CHATGPT artık sadece developer modunda çalışıyor)
+  
+## Sprint Retrospective:
+- Discord üzerinden ekran paylaşımı ile yapılan toplantılarda daha çok verim alınması nedeniyle bu tarz toplantılara yoğunlaşma kararı alındı.
+
+Product Backlog URL
+https://miro.com/app/board/uXjVM9lY5bA=/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
