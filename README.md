@@ -71,7 +71,7 @@ Tüm ekip
 -	Ekip içinde görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
 -	Takım üyelerinin gelecek sprintlerde Discord üzerinden aktif olması gerektiğine vurgu yapılmıştır.
 
-Product Backlog URL
+## Product Backlog URL
 - https://miro.com/app/board/uXjVM9lY5bA=/?share_link_id=358589371094
 
 # Sprint 2
