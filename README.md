@@ -141,7 +141,7 @@ Sprint board update: Sprint board screenshotları:
 ## Sprint Retrospective:
 - Discord üzerinden ekran paylaşımı ile yapılan toplantılarda daha çok verim alınması nedeniyle bu tarz toplantılara yoğunlaşma kararı alındı.
 
-# Product Backlog URL
+## Product Backlog URL
 - https://miro.com/app/board/uXjVM9lY5bA=/
 
 
