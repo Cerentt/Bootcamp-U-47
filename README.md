@@ -7,6 +7,7 @@ Takım Unity U-47
 - Özde Ceren Topgüloğlu (Scrum Master)
 - Muhammed Alp Gürbüz (Developer)
 - Rümeysa Özkan (Developer)
+- Samet Demir (Developer)
   
 ## Ürün İsmi
 ### "Rise of the Mastermind"
@@ -98,10 +99,7 @@ Sprint board update: Sprint board screenshotları:
 ## Sprint Review: 
 -Alınan kararlar: Oyunumuz tasarımsal olarak çok büyük değişikliklere gidecek, bu büyük değişikliklerden bazıları(Flashbackler olacak, menü tasarımları olacak, animasyonlar olacak.) 
 ## Sprint Review katılımcıları:
-- Salim Çakmak
-- Rümeysa Özkan
-- Muhammed Alp Gürbüz
-- Özde Ceren Topgüloğlu
+Tüm Ekip
 ## Sprint Notları: 
 - Oyunun atmosferi, ışıkları daha dramatik bir korku temasına uygun olacak şekilde düzenlendi, particles system eklendi. Karanlıkta görmek artık daha kolay, ses efektlerinde de iyileştirmelere gidildi. Kostüm texturelarında geliştirmeler yapıldı. Koşma animasyonu eklendi. 2. sprintte planlanan düzenlemeler başarıyla gerçekleştirildi.
 ## Sprint Retrospective:
@@ -133,10 +131,11 @@ https://github.com/Cerentt/Bootcamp-U-47/blob/main/Daily%20Scrum%20Sprint%203.do
 ## Sprint Review: 
 -Alınan kararlar: Oyunun türü değiştirildi. Oyunda gerçekçi bir deneyim için cutsceneler eklendi. 
 ## Sprint Review katılımcıları:
-- Salim Çakmak
-- Rümeysa Özkan
-- Muhammed Alp Gürbüz
-- Özde Ceren Topgüloğlu
+- Salim Çakmak (Product Owner/Developer)
+- Özde Ceren Topgüloğlu (Scrum Master)
+- Muhammed Alp Gürbüz (Developer)
+- Rümeysa Özkan (Developer)
+- Samet Demir (Developer)
 ## Sprint Notları: 
 - CHATGPT  (Güncelleme ile apiyi artık paralı yaptılar, para verip haksız rekabet vermek istemedik. O yüzden CHATGPT artık sadece developer modunda çalışıyor)
   
