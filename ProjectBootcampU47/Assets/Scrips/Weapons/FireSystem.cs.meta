@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 57911bbf271550c4e9308d7a6e7a568e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AmmoCounter: {instanceID: 0}
+  - PocketAmmoCounter: {instanceID: 0}
+  - impactEffect: {instanceID: 0}
+  - rayPoint: {instanceID: 0}
+  - characterController: {instanceID: 0}
+  - muzzleFlash: {instanceID: 0}
+  - fireSound: {fileID: 8300000, guid: f19e3fdb9c8082647a2c32beca28ba84, type: 3}
+  - ReloadSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
